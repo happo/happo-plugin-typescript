@@ -1,0 +1,19 @@
+{
+  "name": "happo-plugin-typescript",
+  "version": "1.0.0",
+  "description": "A Happo plugin that makes it easier to work with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happo/happo-plugin-typescript.git"
+  },
+  "author": "Henric Trotzig <henric.trotzig@happo.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/happo/happo-plugin-typescript/issues"
+  },
+  "homepage": "https://github.com/happo/happo-plugin-typescript#readme"
+}
