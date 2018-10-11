@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/happo/happo-plugin-typescript/issues"
   },
-  "homepage": "https://github.com/happo/happo-plugin-typescript#readme"
+  "homepage": "https://github.com/happo/happo-plugin-typescript#readme",
+  "peerDependencies": {
+    "ts-loader": ">= 3.0.0"
+  }
 }
